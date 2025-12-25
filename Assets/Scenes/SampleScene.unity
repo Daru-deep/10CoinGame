@@ -2382,8 +2382,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d401fa42ba7f0da40887761565e87e2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  timeText: {fileID: 0}
-  sm: {fileID: 0}
+  timeText: {fileID: 93747129}
+  sm: {fileID: 218836164}
   ball: {fileID: 1967905812}
   powerText: {fileID: 1568215549}
   lever: {fileID: 1596434655}

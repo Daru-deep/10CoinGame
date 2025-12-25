@@ -77,7 +77,15 @@ public class GameManager : MonoBehaviour
         }
 
 
+        TimeUpdate();
 
+
+    }
+
+    void TimeUpdate()
+    {
+        float now = Time.time;
+        timeText.text = now.ToString("f0");
     }
 
      
